@@ -11,9 +11,8 @@
 
 
 <a href="https://www.linkedin.com/in/javier-emilio-g%C3%B3mez-612734179">
-<p align="center">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="28px" height="28px" alt="logo"/>
-   </a>
-</p>
-  
+   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="28px" height="28px" alt="logo"/>
+</a>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiemgz&langs_count=5&theme=tokyonight&layout=compact" alt="javiemgz :: Top Langs"/> 
 
