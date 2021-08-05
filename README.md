@@ -2,11 +2,12 @@
    <h3 align="center">¡Hi welcome to my github space! I'm javi</h3>
 </p>
 
+## About me
 - I'm looking forward to improove my backend skills, specially with java/spring.
 - My goal is to become a full time developer, now i'm working on automations, scrips and small projects on the field of IT support at Mercadolibre.
 - funfacts about me:
-   - I've a very cute puppy dog named Bito
-   - Hobbies: Netflix, cars and traveling
+   - I've a very cute puppy dog named Bito.
+   - My hobbies are Netflix, cars and traveling.
 
 ## Languages and stacks
 
