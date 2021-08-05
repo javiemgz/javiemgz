@@ -14,7 +14,7 @@
 
 - I've quiet a bit experience with js. I've done several proyects, with express for backend or with with frameworks in frontend.
 - I'm familiarized with React, is my battle horse on terms of frontends proyects.
-- Currently I found myself working on a spring version of Libro1 which i've first wrote ir in Typescript with mongo, now I'm looking forward to release it with java, spring, redis and mysql
+- Currently I found myself working on a spring version of Libro1 which i've first wrote it in Typescript with mongo. Now I'm looking forward to release it with java, spring, redis and mysql
 
 ## Contact me: 
 <a href="https://www.linkedin.com/in/javier-emilio-g%C3%B3mez-612734179">
