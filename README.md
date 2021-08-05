@@ -1,4 +1,5 @@
 <p align="center" width="300">
+   <img align="center" width="200" src="/IMG_20210727_104320.jpg" />
    <h3 align="center">¡Hi there 👋! I'm javi</h3>
 </p>
 
