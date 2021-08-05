@@ -1,7 +1,12 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="/IMG_20210727_104320.jpg" />
    <h3 align="center">¡Hi there 👋! I'm javi</h3>
 </p>
+
+- I'm looking forward to improove my backend skills, specially with java/spring
+- My goal is to become a full time developer, now i'm working on automations, scrips and small projects on the field of IT support at Mercadolibre
+- funfacts about me
+   - I've a very cute puppy dog named Bito
+   - Hobbies: Netflix, cars, and traveling
 
 <p align="center">
    <a href="https://www.linkedin.com/in/javier-emilio-g%C3%B3mez-612734179">
